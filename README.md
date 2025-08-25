@@ -37,6 +37,7 @@ It serves as a practical case study of my ability to turn design concepts into f
 ---
 
 ## 📸 Preview
+
 Mobile 
 <img width="544" height="878" alt="Screenshot 2025-08-25 100257" src="https://github.com/user-attachments/assets/0bb24787-6774-4584-a949-a53c44616c0f" />
 <img width="535" height="782" alt="Screenshot 2025-08-25 100307" src="https://github.com/user-attachments/assets/184cf78c-7850-4189-a402-fffe70993bfc" />
